@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RidhaAbataoui
-- 👀 I’m interested in ..development.
-- 🌱 I’m currently learning ...js and php
+- 👀 I’m interested in Mobile development.
+- 🌱 I’m currently learning  Kotlin
 - 💞️ I’m looking to collaborate on some project..
 - 📫 How to reach me ...
 
